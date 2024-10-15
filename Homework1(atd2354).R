@@ -57,7 +57,7 @@ plot(subset$Percentage, subset$Amount, ylab = "Cost (in millions)", xlab = "Perc
 #Find the correlation
 cor(subset$Percentage, subset$Amount)
 
-
+print("Hello World")
 
 
 
